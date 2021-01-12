@@ -19,6 +19,9 @@ Contributions do not constitute an official endorsement.
 - **Amazon**
   - [AWS Lambda events](https://docs.aws.amazon.com/lambda/latest/dg/invoking-lambda-function.html)
   - Arun Gupta, Ajay Nair, Rob Leidle, Orr Weinstein
+- **Camunda Cloud**
+  - [CloudEvents Router](https://salaboy.com/2020/05/18/orchestrating-cloud-events-with-zeebe/)
+  - Mauricio Salatino - [@salaboy](http://github.com/salaboy)
 - **commercetools**
   - Christoph Neijenhuis - [@cneijenhuis](https://github.com/cneijenhuis)
 - **Confluent**
